@@ -1,0 +1,16 @@
+body {
+  background-image: url(background.jpg);
+  height: 100vh;
+  background-position: fixed;
+  background-size: cover;
+  font-family: 'Rubik', sans-serif;
+  color: white;
+  text-shadow: 0 0 5px black;
+  font-size: 2em;
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header{
+  background-color: rgba(0, 128, 0, 0.26)
+}
